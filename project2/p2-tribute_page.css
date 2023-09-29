@@ -1,0 +1,30 @@
+*{
+    text-align: center;
+    font-size: 15px;
+}
+body {
+    font-family:'Segoe UI', 'Roboto', 'Helvetica Neue', Arial, sans-serif;
+    font-size: 1.6rem;
+    line-height: 1.5;
+    text-align: center;
+    color: #333;
+}
+ul > li {
+        text-align: left;
+        line-height: 1.6;
+      }
+.bold{
+    font-weight: 800;
+}
+h1{
+    font-size: 40px;
+}
+img{
+    max-width:fit-content;
+    height: fit-content;
+    align-content:center;
+    display: block;
+}
+.italic{
+    font-family:fantasy;
+}
